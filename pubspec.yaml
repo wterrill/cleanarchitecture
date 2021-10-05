@@ -1,0 +1,33 @@
+name: will_terrill_based_on_resocoder_clean_architecture_tdd_course
+description: Assignment for Huntington
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.13.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Service locator
+  get_it: ^7.2.0
+  # Bloc for state management
+  flutter_bloc: ^7.3.0
+  # Value equality
+  equatable: ^2.0.3
+  # Functional programming thingies
+  dartz: ^0.10.0-nullsafety.2
+  # Remote API
+  connectivity_plus: ^1.0.6
+  http: ^0.13.3
+  # Local cache
+  shared_preferences: ^2.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.0.14
+  build_runner: ^2.1.1
+
+flutter:
+  uses-material-design: true

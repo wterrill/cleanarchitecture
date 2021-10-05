@@ -1,0 +1,2 @@
+to generate code for mockito:
+dart run build_runner build

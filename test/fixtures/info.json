@@ -1,0 +1,16 @@
+{
+  "post code": "60606", 
+  "country": "United States", 
+  "country abbreviation": "US", 
+  "places": 
+  [
+    {
+      "place name": "Chicago", 
+      "longitude": "-87.6386", 
+      "state": "Illinois", 
+      "state abbreviation": 
+      "IL", 
+      "latitude": "41.8868"
+    }
+  ]
+}
